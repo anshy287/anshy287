@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anshu Kumari</h1>
 <h3 align="center">An associate consultant at Oracle.</h3>
-<img align="right" alt="coding" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fillustrations%2Fgirl-coding&psig=AOvVaw1B7NdZ2zNAjK1sKeCA_sgf&ust=1685877682290000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPiT_fT9pv8CFQAAAAAdAAAAABAE](https://www.istockphoto.com/vector/young-happy-girl-in-home-clothes-is-sitting-in-a-chair-with-a-laptop-in-headphones-gm1215092800-353785376)](https://img.freepik.com/premium-vector/continuous-one-line-drawing-happy-girl-kid-programmer-showing-programming-code-laptop-her-hand-programming-code-concept-single-line-draw-design-vector-graphic-illustration_612079-1555.jpg?w=2000)"></img>
+<img align="right" alt="coding" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshy287&label=Profile%20views&color=0e75b6&style=flat" alt="anshy287" /> </p>
 
